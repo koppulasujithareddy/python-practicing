@@ -1,7 +1,7 @@
 # Python Learning Journey 🚀
 
 This repository contains my Python practice programs while learning Python step-by-step.
-
+ 
 ## 📘 Topics Learned
 
 - Variables
