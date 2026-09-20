@@ -9,7 +9,7 @@ This repository contains my Python practice programs while learning Python step-
 - If / Else
 - Loops  
 - Functions
-- Lists
+- Lists  
 - append()
 - len()   
 - input()
