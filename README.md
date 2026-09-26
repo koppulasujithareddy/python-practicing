@@ -10,7 +10,7 @@ This repository contains my Python practice programs while learning Python step-
 - Loops  
 - Functions
 - Lists  
-- append()
+- append()  
 - len()   
 - input()
 - sum()
