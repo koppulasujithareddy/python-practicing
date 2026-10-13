@@ -8,7 +8,7 @@ This repository contains my Python practice programs while learning Python step-
 - Print Statements      
 - If / Else
 - Loops    
-- Functions
+- Functions 
 - Lists  
 - append()  
 - len()   
