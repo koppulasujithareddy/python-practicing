@@ -14,7 +14,7 @@ This repository contains my Python practice programs while learning Python step-
 - len()   
 - input()
 - sum()
-- max()
+- max()  
 - min()
 - remove()
 - insert()
