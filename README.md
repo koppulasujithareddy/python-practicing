@@ -17,7 +17,7 @@ This repository contains my Python practice programs while learning Python step-
 - max()  
 - min()  
 - remove()
-- insert()
+- insert() 
 - sort()
 - reverse()
 - String Concatenation
